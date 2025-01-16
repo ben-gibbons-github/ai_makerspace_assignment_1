@@ -36,15 +36,15 @@ Each assignment will have a few of the following categories of exercises:
 Please evaluate your system on the following questions:
 
 1. Explain the concept of object-oriented programming in simple terms to a complete beginner. 
-    - Aspect Tested:  This tests the aspect of step by step instructions, and tuning the writing style to a specific skill level.
+    - Aspect Tested:  This tests the aspect of step by step instructions, and tuning the writing style to a specific skill level.  It does a fine job, though it's a bit unorganized.
 2. Read the following paragraph and provide a concise summary of the key points…
-    - Aspect Tested:  Summarization & Larger paragraph / context understanding.
+    - Aspect Tested:  Summarization & Larger paragraph / context understanding.  It does fine.
 3. Write a short, imaginative story (100–150 words) about a robot finding friendship in an unexpected place.
-    - Aspect Tested:  Creativity / creative writing and longer context cohesion.
+    - Aspect Tested:  Creativity / creative writing and longer context cohesion.  It's ok, though the story is a bit flat.
 4. If a store sells apples in packs of 4 and oranges in packs of 3, how many packs of each do I need to buy to get exactly 12 apples and 9 oranges?
-    - Aspect Tested:  Reasoning (step by step thinking), basic math, word problem understanding.
+    - Aspect Tested:  Reasoning (step by step thinking), basic math, word problem understanding.  Works fine, gets the correct answer.
 5. Rewrite the following paragraph in a professional, formal tone…
-    - Aspect Tested:  Rewriting with specific tone / structure.
+    - Aspect Tested:  Rewriting with specific tone / structure.  Worked alright, but was a little flat sounding.
 
 This "vibe check" now serves as a baseline, of sorts, to help understand what holes your application has.
 
